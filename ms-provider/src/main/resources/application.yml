@@ -1,0 +1,9 @@
+server:
+ port: 9092
+ #servlet:
+  #context-path: /ProductApp
+
+
+spring: 
+ application:
+  name: MS-PROVIDER
